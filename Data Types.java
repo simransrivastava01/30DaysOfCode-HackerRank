@@ -15,7 +15,7 @@ public class Solution {
         int i1=scan.nextInt();
         double d1=scan.nextDouble();
         
-        scan.nextLine();
+        scan.nextLine();         
 
         String s1=scan.nextLine();
 
