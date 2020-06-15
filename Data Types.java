@@ -25,7 +25,7 @@ public class Solution {
 
         /* Declare second integer, double, and String variables. */
 
-        /* Read and save an integer, double, and String to your variables.*/
+        /* Read and save an integer, double, and String to your variables.*/ 
         // Note: If you have trouble reading the entire String, please go back and review the Tutorial closely.
 
         /* Print the sum of both integer variables on a new line. */
