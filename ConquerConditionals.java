@@ -22,7 +22,7 @@ public class Solution {
         System.out.print("Weird");
         else if(N>20)
         System.out.print("Not Weird");
-        scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
+        scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?"); 
 
         scanner.close();
     }
