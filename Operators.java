@@ -24,7 +24,7 @@ public class Solution {
         scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
 
         int tip_percent = scanner.nextInt();
-        scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
+        scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?"); 
 
         int tax_percent = scanner.nextInt();
         scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
