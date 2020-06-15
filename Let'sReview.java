@@ -22,7 +22,7 @@ public class Solution {
         for(int i=1;i<l;i=i+2)
         {
             System.out.print(s.charAt(i));
-        }
+        } 
         System.out.println();
         }
     }
