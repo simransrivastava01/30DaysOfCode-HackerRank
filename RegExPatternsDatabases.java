@@ -30,7 +30,7 @@ public class Solution {
 
              Matcher m = p.matcher(emailID);
             if(m.find()) 
-            {
+            { 
                 nameList.add(firstName);
 
             }
